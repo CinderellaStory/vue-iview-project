@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    基本信息配置内容
+    管理人员配置内容
   </div>
 </template>
 
